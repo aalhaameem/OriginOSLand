@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- মাঝে সাদা রঙের পিল-শেপ, ঠিক আইল্যান্ডের মতো -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,46 L84,46 A8,8 0 0 1 92,54 L92,54 A8,8 0 0 1 84,62 L24,62 A8,8 0 0 1 16,54 L16,54 A8,8 0 0 1 24,46 Z" />
+</vector>
